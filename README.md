@@ -1,10 +1,8 @@
 # learn-security
-Learn best security practises [WIP]
+Learn practises to help you achieve better security.
 
-**Introduction: **
-There is no such thing as security :)
-
-**Todo: Refactor**
+## Philosophy
+To start of, there is no such thing as a secure system. Security is relative, you need to be one step ahead of an attacker. The fabric of low-level architecture – binary and assembly give you full privileges from the start. Operating systems have permission models; however, these are complex systems which will always have vulnerabilities without some kind of break through.
 
 
 ## Hashing
@@ -16,3 +14,6 @@ There is no such thing as security :)
 ## Authentication
 
 ## Session Management
+
+## Resources
+- [OWASP Cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md)
